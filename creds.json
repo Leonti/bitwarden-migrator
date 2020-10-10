@@ -1,0 +1,22 @@
+{
+  "notes": [
+    {
+      "content": "note",
+      "title": "note title"
+    }
+  ],
+  "cards": [{
+    "name": "Card name",
+    "number": "card number",
+    "month": "",
+    "year": "",
+    "code": ""
+  }],
+  "credentials": [
+    {
+      "password": "",
+      "username": "",
+      "id": ""
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "passwords",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "generate": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^8.3.1"
+  }
+}
